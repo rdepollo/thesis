@@ -1,0 +1,4 @@
+{"sounds":[
+  { "name":"loop", "url":"http://stacksculture.com/loop.wav", "type":"loop", "genre":"Hip-Hop", "bpm": "90", "rootNote": "d" },
+  { "name":"808 snare", "url":"http://stacksculture.com/808_Snare04.wav", "type":"one-shot", "genre":"Hip-Hop"  }
+]}
