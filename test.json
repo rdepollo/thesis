@@ -4,5 +4,5 @@
   { "name":"MO6 Loop 2", "url":"url", "tempo":"87","type":"drums", "loop":"true", "tags": ["vaporwave", "vintage", "programmed"] },
   { "name":"MO6 Snare 1", "url":"url", "type":"drums", "loop":"false", "tags": ["vaporwave", "vintage", "programmed"] },
   { "name":"Soul Harp", "url":"url", "tempo":"93","type":"tones", "loop":"true", "tags": ["harp", "neo-soul", "organic", "live"] },
-  { "name":"MO6 Sax Hit", "url":"url", "tempo":"93","type":"tones", "loop":"true", "tags": ["harp", "neo-soul", "organic", "live", "c"] },
+  { "name":"MO6 Sax Hit", "url":"url", "tempo":"93","type":"tones", "loop":"true", "tags": ["harp", "neo-soul", "organic", "live", "c"] }
 ]}
