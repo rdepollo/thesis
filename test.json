@@ -1,0 +1,8 @@
+{"sounds":[
+  { "name":"90's Break", "url":"url", "tempo":"93","type":"drums", "loop":"true", "tags": ["hiphop", "vinyl", "neo-soul", "boom-bap"] },
+  { "name":"MO6 Loop 1", "url":"url", "tempo":"100","type":"drums", "loop":"true", "tags": ["jazz", "funk", "neo-soul", "vintage", "programmed"] },
+  { "name":"MO6 Loop 2", "url":"url", "tempo":"87","type":"drums", "loop":"true", "tags": ["vaporwave", "vintage", "programmed"] },
+  { "name":"MO6 Snare 1", "url":"url", "type":"drums", "loop":"false", "tags": ["vaporwave", "vintage", "programmed"] },
+  { "name":"Soul Harp", "url":"url", "tempo":"93","type":"tones", "loop":"true", "tags": ["harp", "neo-soul", "organic", "live"] },
+  { "name":"MO6 Sax Hit", "url":"url", "tempo":"93","type":"tones", "loop":"true", "tags": ["harp", "neo-soul", "organic", "live", "c"] },
+]}
